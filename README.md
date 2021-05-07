@@ -2,7 +2,7 @@
 ## Eu sou a Elane 
 - :pushpin: Esta é uma conta recente que aos poucos está sendo populada 
 - :woman_technologist: Acadêmica de Sistemas de Informação pela UFPA
-- 🌱 Atualmente estou aprendendo JavaScript/React
+- 🌱 Atualmente estou aprendendo React Native e Node.js
 - 👯 Estou procurando colaborar em projetos open source, a fim de ajudar pessoas e otimizar meu aprendizado
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: eu geralmente choro vendo Naruto
