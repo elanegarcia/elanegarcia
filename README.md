@@ -1,5 +1,5 @@
 ### "Olá, Mundo!" 👋
-## Eu sou a Elane 
+## Podem me chamar de Lane :) 
 - :pushpin: Esta é uma conta recente que aos poucos está sendo populada 
 - :woman_technologist: Acadêmica de Sistemas de Informação pela UFPA
 - 🌱 Atualmente estou aprendendo React Native e Node.js
