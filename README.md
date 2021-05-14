@@ -37,9 +37,3 @@
 <!--
 **elanegarcia/elanegarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-- 🌱 Atualmente estou aprendendo JavaScript/React
-- 👯 Estou procurando colaborar em projetos open source, a fim de ajudar pessoas e otimizar meu aprendizado
-- 😄 Pronomes: ela/dela
-- ⚡ Curiosidade: eu geralmente choro vendo Naruto
--->
