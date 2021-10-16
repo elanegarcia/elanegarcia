@@ -1,6 +1,6 @@
 ### "Olá, Mundo!" 👋
 ## Podem me chamar de Lane :) 
-- :pushpin: Esta é uma conta recente que aos poucos está sendo populada 
+- :pushpin: Meu github está meio desmatado? Sim! Mas aos pouquinhos vou populando
 - :woman_technologist: Acadêmica de Sistemas de Informação pela UFPA
 - 🌱 Atualmente estou aprendendo React Native e Node.js
 - 👯 Estou procurando colaborar em projetos open source, a fim de ajudar pessoas e otimizar meu aprendizado
