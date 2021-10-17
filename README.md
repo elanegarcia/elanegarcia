@@ -2,7 +2,7 @@
 ## Podem me chamar de Lane :) 
 - :pushpin: Meu github está meio desmatado? Sim! Mas aos pouquinhos vou populando
 - :woman_technologist: Acadêmica de Sistemas de Informação pela UFPA
-- 🌱 Atualmente estou aprendendo React Native e Node.js
+- 🌱 Atualmente aprendendo Node.js
 - 👯 Estou procurando colaborar em projetos open source, a fim de ajudar pessoas e otimizar meu aprendizado
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: eu geralmente choro vendo Naruto
