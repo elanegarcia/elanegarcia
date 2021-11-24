@@ -1,8 +1,8 @@
 ### "Olá, Mundo!" 👋
 ## Podem me chamar de Lane :) 
-- :pushpin: Meu github está meio desmatado? Sim. Mas aos pouquinhos vou popular com meus projetos de backend, calminha que logo isso aqui vai ficar bonito
+- :pushpin: Meu github está meio desmatado? Sim. Mas aos pouquinhos vou popular, calminha que logo isso aqui vai ficar bonito
 - :woman_technologist: Acadêmica de Sistemas de Informação pela UFPA
-- 🌱 Atualmente estudando Java e Spring Boot 
+- 🌱 Atualmente estudando Python, Scala, Spark, SQL e TDD 
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: eu geralmente choro vendo Naruto
 
