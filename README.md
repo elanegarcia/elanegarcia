@@ -5,7 +5,7 @@
 - 💻 Engenheira de Software Jr. almejando transicionar para engenharia de dados
 - 🌱 Atualmente estudando Python, Scala, Spark, SQL e TDD 
 - 😄 Pronomes: ela/dela
-- ⚡ Curiosidade: eu geralmente choro vendo Narut
+- ⚡ Curiosidade: eu geralmente choro vendo Naruto
 
 
 ## Conecte-se comigo:
