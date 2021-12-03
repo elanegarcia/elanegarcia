@@ -1,6 +1,6 @@
 ### "Olá, Mundo!" 👋
 ## Podem me chamar de Lane :)
-- :pushpin: Meu github está meio desmatado? Sim. Mas aos pouquinhos vou popular, calminha que logo isso aqui vai ficar bonito
+- :pushpin: Meu github está meio desmatado? Sim. Mas aos pouquinhos vou popular, calminha que logo isso aqui vai ficar bonit
 - :woman_technologist: Acadêmica de Sistemas de Informação pela UFPA
 - 💻 Engenheira de Software Jr. almejando transicionar para engenharia de dados
 - 🌱 Atualmente estudando Python, Scala, Spark, SQL e TDD 
