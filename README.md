@@ -1,7 +1,7 @@
 ### "Olá, Mundo!" 👋
 ## Podem me chamar de Lane :)
 - :woman_technologist: Acadêmica de Sistemas de Informação pela UFPA
-- 💻 Engenheira de Software Jr. almejando transicionar para engenharia de dados
+- 💻 Engenheira de Software Jr. 
 - 🌱 Atualmente estudando Python, Scala, Spark, SQL e TDD 
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: eu geralmente choro vendo Naruto
