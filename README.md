@@ -1,6 +1,5 @@
 ### "Olá, Mundo!" 👋
 ## Podem me chamar de Lane :)
-- :woman_technologist: Acadêmica de Sistemas de Informação pela UFPA
 - 💻 Java Developer Jr. 
 - 🌱 Atualmente estudando Golang 
 - 😄 Pronomes: ela/dela
