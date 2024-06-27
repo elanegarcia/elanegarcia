@@ -1,6 +1,6 @@
 ### "Olá, Mundo!" 👋
 ## Podem me chamar de Lane :)
-- 💻 Java Developer Jr. 
+- 💻 Java Developer
 - 🌱 Atualmente estudando Golang 
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: eu geralmente choro vendo Naruto
