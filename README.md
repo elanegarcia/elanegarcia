@@ -1,7 +1,7 @@
 ### "Olá, Mundo!" 👋
 ## Podem me chamar de Lane :)
-- 💻 Software Developer
-- 🌱 Atualmente estudando Golang 
+- 💻 Em transição de Engenharia de Software para Engenharia de Dados
+- 🌱 Atualmente estudando Machine Learning 
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: eu geralmente choro vendo Naruto
 
