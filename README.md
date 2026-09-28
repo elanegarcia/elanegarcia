@@ -1,6 +1,6 @@
 ### "Olá, Mundo!" 👋
 ## Podem me chamar de Lane :)
-- 💻 Em transição de Engenharia de Software para Engenharia de Dados
+- 💻 Em transição de Engenharia de Software para Engenharia de Dados/Machine Learning
 - 🌱 Atualmente estudando Machine Learning 
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: eu geralmente choro vendo Naruto
