@@ -4,22 +4,6 @@
 
 Me chamo Elane, sou natural do Norte mas resido no Sudeste do Brasil. Concluí o Bacharelado na UFPA, com iniciação científica e TCC com foco em Dados e IA. Atualmente, estou cursando MBA em Ciência de Dados, Inteligência Artificial e Analytics pela USP/Esalq.
 
-<p align="left">
-    <a href="https://github.com/elanegarcia?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/elanegarcia?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/elanegarcia?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/elanegarcia?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
