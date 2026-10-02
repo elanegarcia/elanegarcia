@@ -2,7 +2,7 @@
 
 **`Engenheira de Software com foco em Dados e Inteligência Artificial`**
 
-Me chamo Elane, sou natural do Norte mas resido no Sudeste do Brasil. Concluí o Bacharelado na UFPA, com iniciação científica e TCC com foco em Dados e IA. Atualmente, estou cursando MBA em Ciência de Dados, Inteligência Artificial e Analytics pela USP/Esalq.
+Me chamo Elane, sou natural do Norte mas resido no Sudeste do Brasil. Concluí o Bacharelado na UFPA, com iniciação científica e TCC focado em Dados e IA. Atualmente, estou cursando MBA em Ciência de Dados, Inteligência Artificial e Analytics pela USP/Esalq.
 
 
 ---
